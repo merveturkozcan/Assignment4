@@ -1,0 +1,5 @@
+com/robotdreams/assignment4/controller/ProductsController.class
+com/robotdreams/assignment4/repository/ProductRepository.class
+com/robotdreams/assignment4/service/ProductService.class
+com/robotdreams/assignment4/entity/Product.class
+com/robotdreams/assignment4/Assignment4Application.class
